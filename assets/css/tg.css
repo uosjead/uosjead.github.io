@@ -26,12 +26,9 @@
     color: red;
     background-color: orange;
 }
-body {
+#typing-game {
     display: flex;
     flex-direction: column;
-}
-html, body {
-    height: 100%;
     margin: 0;
 }
 .header {
