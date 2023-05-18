@@ -26,3 +26,19 @@
     color: red;
     background-color: orange;
 }
+body {
+    display: flex;
+    flex-direction: column;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.header {
+    flex: 0 1 auto;
+    margin: 16px;
+}
+.content {
+    flex: 1 1 auto;
+    margin: 16px;
+}
