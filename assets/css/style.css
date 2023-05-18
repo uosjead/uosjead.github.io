@@ -1,0 +1,28 @@
+#input {
+    font-family: monospace;
+    padding: 5px;
+    color: #999;
+    background-color: #f9f9f9;
+    min-height: 80px;
+    border: 1px solid silver;
+    line-height: 125%;
+    font-size: 16px;
+    white-space: break-spaces;
+}
+#output {
+    font-family: monospace;
+    line-height: 125%;
+    font-size: 16px;
+    resize: none;
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+.correct {
+    color: green;
+    background-color: lightblue;
+}
+.incorrect {
+    color: red;
+    background-color: orange;
+}
