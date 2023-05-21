@@ -7,6 +7,9 @@ title: uosjead
 # About/contact
 author: wp
 
+github_username:  uosjead
+linkedin_username: uosjead
+
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/uosjead" }
