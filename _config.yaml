@@ -2,3 +2,10 @@ theme: minima
 title: uosjead
 description: About me
 # exclude: ["README.md"]
+
+
+# About/contact
+author:
+  name:              w
+  url:               https://www.google.com
+  email:             me@memail.com
