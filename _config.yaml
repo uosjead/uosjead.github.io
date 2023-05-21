@@ -1,4 +1,5 @@
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima@38a84a949f9753c4542e25f422935f59b4913053
 title: uosjead
 # description: footer
 # exclude: ["README.md"]
