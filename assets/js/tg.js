@@ -1,3 +1,9 @@
+/*
+    todo:
+    1. completion state
+    2. 80% difficulty rule
+*/
+
 document.addEventListener("DOMContentLoaded", function() {
     let characterInputs = document.getElementById("characters");
     let divs = characterInputs.getElementsByTagName("textarea");
