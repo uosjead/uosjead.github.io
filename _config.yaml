@@ -13,8 +13,8 @@ linkedin_username: uosjead
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/uosjead", title: github }
-    - { platform: linkedin, user_url: "https://linkedin.com" }
+    - { platform: github,  user_url: "https://github.com/uosjead", github_username: github }
+    - { platform: linkedin, user_url: "https://linkedin.com", linkedin_username: linkedin }
     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/" }
     
 include:
