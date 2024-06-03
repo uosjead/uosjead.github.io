@@ -2,6 +2,7 @@
     todo:
     1. completion state
     2. 80% difficulty rule
+    3. Handle backspaces when scoring penalty
 */
 
 document.addEventListener("DOMContentLoaded", function() {
